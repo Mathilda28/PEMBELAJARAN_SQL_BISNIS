@@ -1,0 +1,9 @@
+#JAWABAN NOMOR 1
+SELECT
+  id,
+  email
+FROM
+  `project-tilda-396813.ecommerce.customer`
+WHERE
+  gender= 'Female'
+  AND city='Depok'
